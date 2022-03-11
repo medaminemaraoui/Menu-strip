@@ -1,0 +1,13 @@
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\bin\Debug\Menu strip.exe.config
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\bin\Debug\Menu strip.exe
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\bin\Debug\Menu strip.pdb
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu strip.csproj.AssemblyReference.cache
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu strip.csproj.SuggestedBindingRedirects.cache
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu_strip.Clients_F.resources
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu_strip.Form1.resources
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu_strip.Properties.Resources.resources
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu strip.csproj.GenerateResource.cache
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu strip.csproj.CoreCompileInputs.cache
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu strip.exe
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu strip.pdb
+C:\Users\IBIZA-PC\Desktop\Trying\Menu strip\Menu strip\obj\Debug\Menu_strip.Exporter.resources
